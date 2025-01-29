@@ -11,10 +11,10 @@
     "ad_interval" : 3 ,
     
     "AdMob": {
-      "banner": "ca-app-pub-3940256099942544/6300978111",
-      "interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "native": "ca-app-pub-3940256099942544/1044960115",
-      "appopen" : "ca-app-pub-3940256099942544/3419835294"
+      "banner": "ca-app-pub-4444",
+      "interstitial": "ca-app-pub-4444",
+      "native": "ca-app-pub-44444",
+      "appopen" : "ca-app-pub-44444"
     },
     
     "ironSource": {
